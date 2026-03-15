@@ -1,0 +1,21 @@
+h1{
+    width: 100%;
+    background-color: rgb(16, 16, 67);
+    color: white
+}
+h2{
+    color: rgb(16, 16, 67);
+}
+p1{
+    color: rgb(85, 81, 81)
+}
+img{
+    border-radius: 500px;
+    border: 2px solid black;
+    margin: 0px 8px;
+}
+.faixa-topo{
+    width: 50%;
+    height: 320px;
+    background: linear-gradient(180deg, rgb(16, 16, 67),rgb(34, 93, 146)) ;
+}
